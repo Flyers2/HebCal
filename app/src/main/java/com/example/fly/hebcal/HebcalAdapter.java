@@ -14,7 +14,7 @@ import android.widget.TextView;
  */
 public class HebcalAdapter extends ArrayAdapter<Dates>{
 
-    private  int resource;
+    private int resource;
 
     public HebcalAdapter(Context context, int resource) {
         super(context, resource);
